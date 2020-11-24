@@ -1,0 +1,6 @@
+<cover-view class="tabbar-main">
+  <cover-view wx:for="{{list}}" class="tabbar-item">
+    <text>{{item.text}}</text>
+    <cover-image />
+  </cover-view>
+</cover-view>

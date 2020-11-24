@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#07c160",
+    "navigationBarTitleText": "怡禾堂",
+    "navigationBarTextStyle":"white"
+  },
+  "usingComponents": {
+    "my-tabbar":"components/tabbar/tabbar"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
