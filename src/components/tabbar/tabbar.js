@@ -11,20 +11,32 @@ Component({
    * 组件的初始数据
    */
   data: {
-    selectd: 0,
+    selected: 0,
     color: "#7A7E83",
     select_color: "#07c160",
     list:[
       {
         path: "/pages/index",
-        icon: "",
-        selectIcon: "",
+        icon: "/images/食堂.png",
+        selectIcon: "/images/食堂_s.png",
         text: "首页",
       },
       {
+        path: "",
+        icon: "/images/饮料.png",
+        selectIcon: "/images/饮料_s.png",
+        text: "奶茶",
+      },
+      {
+        path: "",
+        icon: "/images/订单.png",
+        selectIcon: "/images/订单_s.png",
+        text: "订单",
+      },
+      {
         path: "/pages/logs",
-        icon: "",
-        selectIcon: "",
+        icon: "/images/棋牌.png",
+        selectIcon: "/images/棋牌_s.png",
         text: "日志",
       }
     ]
@@ -34,8 +46,15 @@ Component({
    * 组件的方法列表
    */
   methods: {
-    selectd(e){
-      const 
+    selectedTab(e){
+      const data = e.target.dataset
+      const path = data.path
+      wx.switchTab({
+        url: path,
+      })
+      this.setData({
+        selected : data.index
+      })
     }
   }
 })

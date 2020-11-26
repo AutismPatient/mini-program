@@ -1,7 +1,12 @@
 /* components/tabbar.wxss */
-.tabbar-main{
+.tab-bar-main{
   position: fixed;
   bottom: 0;
   left: 0;
-  border-top: 1px solid #d7d6d5 ;
+  border-top: 1px solid #d7d6d5;
+  margin-bottom: 10rpx;
+  height: 46px;
+}
+.tab-bar-item{
+  
 }
