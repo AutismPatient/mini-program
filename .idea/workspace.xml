@@ -5,46 +5,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8f87413-a28e-4760-ac03-1a7938cf7ce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mini-program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/home_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/用户.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/用户_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/订单.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/订单_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/buy/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/buy/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/buy/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/buy/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/order/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/order/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/order/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/order/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user/user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user/user.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/user/user.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c8f87413-a28e-4760-ac03-1a7938cf7ce4" name="Default Changelist" comment=".idea">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabbar/tabbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tabbar/tabbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabbar/tabbar.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tabbar/tabbar.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/堂食.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/堂食_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/棋牌.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/棋牌_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/购物车.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/购物车_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/home_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/home_s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/用户.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/用户.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/用户_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/用户_s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/订单.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/订单.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/images/饮料.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/饮料.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/饮料_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/饮料_s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +47,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606721536607</updated>
-      <workItem from="1606721537821" duration="670000" />
+      <workItem from="1606721537821" duration="3696000" />
     </task>
+    <task id="LOCAL-00001" summary="tabbar">
+      <created>1606722224529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606722224529</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".idea">
+      <created>1606722330372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606722330372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +112,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tabbar" />
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="262" key="Vcs.Push.Dialog.v2" timestamp="1606722523177">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="502" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606722523177" />
   </component>
 </project>
