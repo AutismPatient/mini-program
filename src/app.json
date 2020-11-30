@@ -1,16 +1,50 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/user/user",
+    "pages/buy/index",
+    "pages/order/index"
   ],
-  "window":{
-    "backgroundTextStyle":"dark",
+  "window": {
+    "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#07c160",
     "navigationBarTitleText": "怡禾堂",
-    "navigationBarTextStyle":"white"
+    "navigationBarTextStyle": "white"
   },
-  "usingComponents": {
-    "my-tabbar":"components/tabbar/tabbar"
+  "tabBar": {
+    "custom": false,
+    "color": "#b3b3b3",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home_s.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/buy/index",
+        "iconPath": "images/饮料.png",
+        "selectedIconPath": "images/饮料_s.png",
+        "text": "点餐"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "iconPath": "images/订单.png",
+        "selectedIconPath": "images/订单_s.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "images/用户.png",
+        "selectedIconPath": "images/用户_s.png",
+        "text": "我的"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

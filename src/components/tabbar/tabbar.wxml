@@ -1,6 +1,6 @@
 <cover-view class="tab-bar">
-  <cover-view wx:for="{{list}}" class="tab-bar-item" wx:key="index" data-path="{{item.path}}" data-index="{{index}}" bindtap="">
-    <cover-image src=" {{ selected === index ? item.selectIcon:item.icon }}"/>
+  <cover-view wx:for="{{list}}" class="tab-bar-item" wx:key="index" data-path="{{item.pagePath}}" data-index="{{index}}" bindtap="">
+    <cover-image src=" {{ selected === index ? item.selectedIconPath:item.iconPath }}"/>
     <text>{{item.text}}</text>
   </cover-view>
 </cover-view>

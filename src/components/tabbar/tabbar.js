@@ -16,29 +16,41 @@ Component({
     select_color: "#07c160",
     list:[
       {
-        path: "/pages/index",
-        icon: "/images/食堂.png",
-        selectIcon: "/images/食堂_s.png",
-        text: "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/食堂.png",
+        "selectedIconPath": "images/食堂_s.png",
+        "text": "组件"
       },
       {
-        path: "",
-        icon: "/images/饮料.png",
-        selectIcon: "/images/饮料_s.png",
-        text: "奶茶",
-      },
-      {
-        path: "",
-        icon: "/images/订单.png",
-        selectIcon: "/images/订单_s.png",
-        text: "订单",
-      },
-      {
-        path: "/pages/logs",
-        icon: "/images/棋牌.png",
-        selectIcon: "/images/棋牌_s.png",
-        text: "日志",
+        "pagePath": "pages/logs/logs",
+        "iconPath": "images/饮料.png",
+        "selectedIconPath": "images/饮料_s.png",
+        "text": "接口"
       }
+      // {
+      //   path: "/pages/index",
+      //   icon: "/images/食堂.png",
+      //   selectIcon: "/images/食堂_s.png",
+      //   text: "首页",
+      // },
+      // {
+      //   path: "",
+      //   icon: "/images/饮料.png",
+      //   selectIcon: "/images/饮料_s.png",
+      //   text: "奶茶",
+      // },
+      // {
+      //   path: "",
+      //   icon: "/images/订单.png",
+      //   selectIcon: "/images/订单_s.png",
+      //   text: "订单",
+      // },
+      // {
+      //   path: "/pages/logs",
+      //   icon: "/images/棋牌.png",
+      //   selectIcon: "/images/棋牌_s.png",
+      //   text: "日志",
+      // }
     ]
   },
 

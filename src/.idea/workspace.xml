@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f5f9dd8-a575-4a4f-a68a-3f94cdfcfe15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/components/tabbar/tabbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/tabbar/tabbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/tabbar/tabbar.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/tabbar/tabbar.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/tabbar/tabbar.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/tabbar/tabbar.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,8 @@
       <workItem from="1606198288858" duration="366000" />
       <workItem from="1606198667951" duration="420000" />
       <workItem from="1606199101600" duration="558000" />
-      <workItem from="1606268838254" duration="919000" />
+      <workItem from="1606268838254" duration="2108000" />
+      <workItem from="1606556643772" duration="892000" />
     </task>
     <servers />
   </component>
